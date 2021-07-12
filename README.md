@@ -24,3 +24,11 @@ The output of desired network address and CIDR notation will be calculated and d
 
 ![alt text](https://github.com/shashankkandaala2503/Zoho1/blob/main/Pictures/4.JPG)
 
+Validation is done as shown below
+
+![alt text](https://github.com/shashankkandaala2503/Zoho1/blob/main/Pictures/5.JPG)
+
+![alt text](https://github.com/shashankkandaala2503/Zoho1/blob/main/Pictures/6.JPG)
+
+
+
