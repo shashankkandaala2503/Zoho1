@@ -1,10 +1,12 @@
 # Zoho1
 <h1>Prerequisites</h1>
-Python
-Flask (installed using pip install command)
-Visual studio code
+Python<br/>
+Flask (installed using pip install command)<br/>
+Visual studio code<br/>
 <h1>Execution steps</h1>
-
+Run the web application in command prompt in Zoho1 directory by using following commands.<br/>
+python app.py <br/>
+Open the url displayed http://127.0.0.1:5000/ in any browser <br/>
 
 In order to obtain Ipv6 address, initially Ipv4 address need to be given as input for Task 1.
 
