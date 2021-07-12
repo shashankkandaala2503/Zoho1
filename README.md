@@ -1,5 +1,10 @@
 # Zoho1
 <h1>Prerequisites</h1>
+Python
+Flask (installed using pip install command)
+Visual studio code
+<h1>Execution steps</h1>
+
 
 In order to obtain Ipv6 address, initially Ipv4 address need to be given as input for Task 1.
 
